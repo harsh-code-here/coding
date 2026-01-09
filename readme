@@ -1,0 +1,33 @@
+# 100 Days of DSA in C++
+
+This repository documents my **100-day journey of mastering Data Structures and Algorithms using C++**.
+
+## 📌 Goals
+- Build strong DSA fundamentals
+- Improve problem-solving skills
+- Prepare for interviews and competitive programming
+
+## 🗂 Structure
+Each day contains:
+- `problem.md` → Problem description & approach
+- `solution.cpp` → C++ implementation
+
+## 🧠 Topics Covered
+- Arrays
+- Strings
+- Linked Lists
+- Stacks & Queues
+- Trees
+- Graphs
+- Dynamic Programming
+
+## 🚀 Progress
+- Day 1: Arrays ✅
+- Day 2: Strings ✅
+- Day 3: Linked List ✅
+
+## 🛠 Language
+- C++
+
+---
+**Consistency > Speed**
